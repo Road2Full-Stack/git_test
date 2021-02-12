@@ -4,6 +4,7 @@ Basic git commands
 
 git --version (Running version of git)
 git config --global init.defaultBranch main (Set default git branch to main)
+git init (Initialize a new Git repository and begins tracking an existing directory)
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git (copy repository to machine)
 git remote -v (Display URL of repository created in GitHub)
 git status (Show working tree status)
